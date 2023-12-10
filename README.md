@@ -1,1 +1,4 @@
-# papers
+# Research
+My research interests are primarily on algebraic curves, automorphisms, hyperelliptic and superelliptic curves, Hurwitz spaces and moduli spaces of curves, weighted projective spaces and their heights, minimal models of curves, algebraic coding, cryptography, etc. In the last few years I have shifted more and more toward arithmetic geometry, including weighted heights, Vojta's conjecture on weighted abelian varieties, GIT heights, etc. I also have a strong interest on data science and artificial intelligence, including computational linguistics. Below is a list of papers and preprints.
+
+There are many versions of any of these papers online. I do NOT maintain nor update papers on http://arxiv.org/a/shaska_t_1 or other websites. Be aware that arxiv versions are not, for the most cases, the correct, published versions. Please check (and cite) the published versions.
